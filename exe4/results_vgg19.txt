@@ -1,0 +1,13 @@
+Training VGG19...
+Epoch [1/10], Train Loss: 4.6812, Val Loss: 3.4831, Val Accuracy: 0.2941
+Epoch [2/10], Train Loss: 2.7357, Val Loss: 2.5558, Val Accuracy: 0.4608
+Epoch [3/10], Train Loss: 1.8106, Val Loss: 2.1863, Val Accuracy: 0.5049
+Epoch [4/10], Train Loss: 1.3260, Val Loss: 2.0003, Val Accuracy: 0.5441
+Epoch [5/10], Train Loss: 1.0336, Val Loss: 1.8808, Val Accuracy: 0.5441
+Epoch [6/10], Train Loss: 0.7587, Val Loss: 1.8149, Val Accuracy: 0.5784
+Epoch [7/10], Train Loss: 0.7197, Val Loss: 1.7964, Val Accuracy: 0.5441
+Epoch [8/10], Train Loss: 0.6014, Val Loss: 1.7481, Val Accuracy: 0.5735
+Epoch [9/10], Train Loss: 0.5607, Val Loss: 1.7237, Val Accuracy: 0.5931
+Epoch [10/10], Train Loss: 0.5095, Val Loss: 1.7258, Val Accuracy: 0.5833
+Evaluating VGG19...
+Test Accuracy: 0.5980
