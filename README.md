@@ -13,4 +13,4 @@ For running the code you'll need:
 
 *** Note - we changed the original classify/train.py yolo file to include training accuracy for each epoch, the changed script is attached but there's no problem to use the original one 
 
-The repository including the code and results are here - https://github.com/adi-goldstein/exe4_ml.git[https://github.com/adi-goldstein/exe4_ml.git]
+The repository including the code and results are here - https://github.com/adi-goldstein/exe4_ml.git
