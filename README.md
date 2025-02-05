@@ -11,6 +11,6 @@ For running the code you'll need:
 3. Load the data and arrange it with the script `loadinf_flower102.py`
 4. Run `exe4.py`
 
-# Note - we changed the original classify/train.py yolo file to include training accuracy for each epoch, the changed script is attached but there's no problem to use the original one 
+*** Note - we changed the original classify/train.py yolo file to include training accuracy for each epoch, the changed script is attached but there's no problem to use the original one 
 
-The repository including the code and results are here - 
+The repository including the code and results are here - https://github.com/adi-goldstein/exe4_ml.git[https://github.com/adi-goldstein/exe4_ml.git]
